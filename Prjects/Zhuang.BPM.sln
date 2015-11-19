@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhuang.BPM.Activities", "Zhuang.BPM.Activities\Zhuang.BPM.Activities.csproj", "{F258B253-DF45-4D2C-A096-1BDEC9E3ADDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhuang.BPM.Templates", "Zhuang.BPM.Templates\Zhuang.BPM.Templates.csproj", "{7DC5EBFB-1484-490C-9916-01C5F16DC171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhuang.BPM.Services", "Zhuang.BPM.Services\Zhuang.BPM.Services.csproj", "{7379071B-13FE-488F-95BA-67FD0B5C1CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhuang.BPM.ConsoleServer", "Zhuang.BPM.ConsoleServer\Zhuang.BPM.ConsoleServer.csproj", "{73CFC3B4-4E25-4D51-B848-FF9B27A501CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhuang.BPM.Model", "Zhuang.BPM.Model\Zhuang.BPM.Model.csproj", "{A9675E28-A6F1-4B99-B234-534BD3302D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhuang.BPM.ConsoleTestClient", "Zhuang.BPM.ConsoleTestClient\Zhuang.BPM.ConsoleTestClient.csproj", "{C5355D05-810F-49A6-895D-4171C5AFD229}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://weibin268.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Zhuang.BPM.Activities\\Zhuang.BPM.Activities.csproj
+		SccProjectName1 = Zhuang.BPM.Activities
+		SccLocalPath1 = Zhuang.BPM.Activities
+		SccProjectUniqueName2 = Zhuang.BPM.Templates\\Zhuang.BPM.Templates.csproj
+		SccProjectName2 = Zhuang.BPM.Templates
+		SccLocalPath2 = Zhuang.BPM.Templates
+		SccProjectUniqueName3 = Zhuang.BPM.Services\\Zhuang.BPM.Services.csproj
+		SccProjectName3 = Zhuang.BPM.Services
+		SccLocalPath3 = Zhuang.BPM.Services
+		SccProjectUniqueName4 = Zhuang.BPM.ConsoleServer\\Zhuang.BPM.ConsoleServer.csproj
+		SccProjectName4 = Zhuang.BPM.ConsoleServer
+		SccLocalPath4 = Zhuang.BPM.ConsoleServer
+		SccProjectUniqueName5 = Zhuang.BPM.Model\\Zhuang.BPM.Model.csproj
+		SccProjectName5 = Zhuang.BPM.Model
+		SccLocalPath5 = Zhuang.BPM.Model
+		SccProjectUniqueName6 = Zhuang.BPM.ConsoleTestClient\\Zhuang.BPM.ConsoleTestClient.csproj
+		SccProjectName6 = Zhuang.BPM.ConsoleTestClient
+		SccLocalPath6 = Zhuang.BPM.ConsoleTestClient
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F258B253-DF45-4D2C-A096-1BDEC9E3ADDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F258B253-DF45-4D2C-A096-1BDEC9E3ADDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F258B253-DF45-4D2C-A096-1BDEC9E3ADDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F258B253-DF45-4D2C-A096-1BDEC9E3ADDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC5EBFB-1484-490C-9916-01C5F16DC171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC5EBFB-1484-490C-9916-01C5F16DC171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC5EBFB-1484-490C-9916-01C5F16DC171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC5EBFB-1484-490C-9916-01C5F16DC171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7379071B-13FE-488F-95BA-67FD0B5C1CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7379071B-13FE-488F-95BA-67FD0B5C1CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7379071B-13FE-488F-95BA-67FD0B5C1CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7379071B-13FE-488F-95BA-67FD0B5C1CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73CFC3B4-4E25-4D51-B848-FF9B27A501CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CFC3B4-4E25-4D51-B848-FF9B27A501CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CFC3B4-4E25-4D51-B848-FF9B27A501CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CFC3B4-4E25-4D51-B848-FF9B27A501CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9675E28-A6F1-4B99-B234-534BD3302D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9675E28-A6F1-4B99-B234-534BD3302D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9675E28-A6F1-4B99-B234-534BD3302D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9675E28-A6F1-4B99-B234-534BD3302D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5355D05-810F-49A6-895D-4171C5AFD229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5355D05-810F-49A6-895D-4171C5AFD229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5355D05-810F-49A6-895D-4171C5AFD229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5355D05-810F-49A6-895D-4171C5AFD229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
